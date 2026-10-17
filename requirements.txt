@@ -1,0 +1,12 @@
+# Versions used to produce the v2.0.0 results (Python 3.13)
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+PyKrige==1.7.3
+pyproj==3.8.0
+statsmodels==0.15.0
+openpyxl==3.1.5
+Pillow
+seaborn
