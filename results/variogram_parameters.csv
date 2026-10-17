@@ -1,0 +1,5 @@
+Area,Model,Partial_sill,Range_m,Nugget,Nugget_to_sill
+KT,exponential,0.2445,48.2486,0.1338,0.3537
+KT,spherical,0.2706,37.2055,0.1066,0.2827
+MKA,exponential,0.4748,22.2228,0.0008,0.0017
+MKA,spherical,0.2098,40.1120,0.2693,0.5621

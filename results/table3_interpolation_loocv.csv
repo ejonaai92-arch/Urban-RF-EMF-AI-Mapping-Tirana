@@ -1,0 +1,13 @@
+Area,Method,R2,MAE,RMSE,Bias
+KT,Linear (Delaunay),0.0076,0.4964,0.6326,0.0201
+KT,IDW (power 2),0.1558,0.4599,0.5835,0.0282
+KT,RBF multiquadric,-1.1472,0.6716,0.9305,0.0451
+KT,"OK, exponential",0.1547,0.4548,0.5838,0.0094
+KT,"OK, spherical",0.1472,0.4523,0.5864,0.0137
+KT,Global mean (reference),-0.0237,0.5134,0.6425,-0.0000
+MKA,Linear (Delaunay),0.0923,0.5008,0.7299,0.0162
+MKA,IDW (power 2),0.1770,0.4675,0.6950,0.0221
+MKA,RBF multiquadric,-0.7516,0.7275,1.0139,-0.0534
+MKA,"OK, exponential",0.1248,0.4785,0.7167,0.0005
+MKA,"OK, spherical",0.3947,0.4208,0.5960,0.0064
+MKA,Global mean (reference),-0.0240,0.5702,0.7752,-0.0000

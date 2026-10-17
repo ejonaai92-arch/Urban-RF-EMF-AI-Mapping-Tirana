@@ -1,0 +1,3 @@
+Square,n,NN_mean_m,NN_median_m,Pairwise_mean_m,Extent_E_m,Extent_N_m,Hull_area_ha,Points_per_ha,Dist_BS_min_m,Dist_BS_max_m,UTM_500m_grid_cells_touched
+MKA,85,4.48,3.86,53.56,93.03,145.68,0.76,111.83,8.90,95.50,1
+KT,86,9.80,7.67,133.00,344.59,306.69,6.68,12.87,8.87,252.20,4

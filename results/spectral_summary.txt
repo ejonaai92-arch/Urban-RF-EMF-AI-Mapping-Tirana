@@ -1,0 +1,8 @@
+Noise floor per bin: 0.046 V/m at 700 MHz, 0.127 V/m at 6000 MHz
+KT: E_corr mean 2.64 V/m (range 1.72-4.24)
+MKA: E_corr mean 2.46 V/m (range 1.51-4.81)
+FDD uplink share: median 0.008, P90 0.035, max 0.066; five highest-E_total points: max 0.0045
+NR3500 share of corrected power: median 0.060
+ICNIRP exposure ratio (sum E^2/E_L^2): raw max 0.0193, corrected max 0.0091
+RSS of the seven bands relative to E_total: mean 30.7% lower
+Max E_total 7.10 V/m = 17.3% of 41 V/m and 19.5% of 36.4 V/m

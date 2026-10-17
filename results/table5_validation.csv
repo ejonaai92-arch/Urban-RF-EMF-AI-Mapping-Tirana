@@ -1,0 +1,10 @@
+Protocol,Model,R2,MAE,RMSE
+Single 75/25 split,Random Forest,0.806,0.231,0.321
+Single 75/25 split,RF spatial-only,0.138,0.505,0.677
+Single 75/25 split,Linear regression,0.968,0.096,0.131
+5-fold x 10 repeats,Random Forest,0.827 ± 0.092,0.180 ± 0.041,0.286 ± 0.106
+5-fold x 10 repeats,RF spatial-only,0.198 ± 0.271,0.459 ± 0.053,0.609 ± 0.084
+5-fold x 10 repeats,Linear regression,0.952 ± 0.020,0.106 ± 0.013,0.149 ± 0.041
+10-fold x 10 repeats,Random Forest,0.846 ± 0.109,0.174 ± 0.060,0.262 ± 0.139
+10-fold x 10 repeats,RF spatial-only,0.139 ± 0.402,0.457 ± 0.084,0.597 ± 0.125
+10-fold x 10 repeats,Linear regression,0.951 ± 0.029,0.105 ± 0.023,0.143 ± 0.056

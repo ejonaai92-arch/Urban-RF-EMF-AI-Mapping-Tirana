@@ -1,0 +1,12 @@
+Feature,Importance_pct
+LTE800,25.50
+GSM1800,24.67
+LTE2600,16.89
+GSM900,12.47
+NR3500,10.30
+LTE2100,3.92
+Distance_to_nearest_antenna_m,3.36
+LTE700,1.65
+Latitude,0.58
+Longitude,0.48
+Nearest_Antenna_Height_m,0.17
