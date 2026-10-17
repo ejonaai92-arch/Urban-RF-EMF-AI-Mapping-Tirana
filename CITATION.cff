@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the associated article and this Zenodo record when using this repository."
+title: "Random Forest Prediction of Urban RF-EMF Exposure from Multiband Field Measurements in Tirana: code, data and figures"
+type: software
+authors:
+  - family-names: "Zeneli"
+    given-names: "Ejona"
+    orcid: "https://orcid.org/0009-0008-3508-7536"
+version: "2.0.0"
+date-released: "2026-10-16"
+license: MIT
+repository-code: "https://github.com/ejonaai92-arch/Urban-RF-EMF-AI-Mapping-Tirana"
+keywords:
+  - RF-EMF
+  - Random Forest
+  - machine learning
+  - spatial prediction
+  - kriging
+  - Tirana
