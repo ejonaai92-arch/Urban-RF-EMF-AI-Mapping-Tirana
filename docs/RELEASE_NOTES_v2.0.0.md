@@ -1,4 +1,4 @@
-# Release v2.0.0
+# Release v1.1.0
 
 Accompanies the revised manuscript *Random Forest Prediction of Urban Radiofrequency Electromagnetic Field Exposure from Multiband Field Measurements in Tirana* (revision following peer review, Discover Applied Sciences).
 
