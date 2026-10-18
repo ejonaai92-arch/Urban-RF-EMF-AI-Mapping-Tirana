@@ -2,7 +2,7 @@
 
 Code, data and figures for the manuscript *Random Forest Prediction of Urban Radiofrequency Electromagnetic Field Exposure from Multiband Field Measurements in Tirana* (Zeneli, Kuqi, Myzeqari, Kuqali, Askushaj, Plaku; revised version submitted to *Discover Applied Sciences*).
 
-**Version 2.0.0** adds everything needed to reproduce the analyses introduced in the revision (cross-validation, bootstrap, spatial-only and linear baselines, kriging comparison, hotspot agreement, learning curves, weekday/weekend sensitivity, uplink and noise-corrected levels) together with the revised figures. Version 1.0.0 (original submission) is preserved unchanged in `scripts/v1_original/`, `figures/v1_original/` and `tables/v1_original/`.
+**Version 1.1.0** adds everything needed to reproduce the analyses introduced in the revision (cross-validation, bootstrap, spatial-only and linear baselines, kriging comparison, hotspot agreement, learning curves, weekday/weekend sensitivity, uplink and noise-corrected levels) together with the revised figures. Version 1.0.0 (original submission) is preserved unchanged in `scripts/v1_original/`, `figures/v1_original/` and `tables/v1_original/`.
 
 ## Study
 
